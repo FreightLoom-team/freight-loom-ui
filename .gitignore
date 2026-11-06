@@ -1,0 +1,30 @@
+# Dependency Trees
+node_modules/
+.npm/
+
+# Compilation Artifacts & Build Bundles
+www/
+dist/
+.angular/
+
+# Native Staging Platforms (iOS & Android)
+ios/App/Pods/
+ios/App/.symlinks/
+ios/App/Podfile.lock
+ios/App/build/
+ios/App/App.xcworkspace/xcuserdata/
+*.xcworkspace/xcuserdata/
+android/app/build/
+android/.gradle/
+android/local.properties
+DerivedData/
+
+# IDE Configuration Layers & System Trash
+.DS_Store
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

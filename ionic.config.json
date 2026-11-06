@@ -1,0 +1,7 @@
+{
+  "name": "freight-loom-ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
