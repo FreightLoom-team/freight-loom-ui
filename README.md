@@ -1,4 +1,4 @@
-#### Freight Loom UI (Client Platform)
+# Freight Loom UI (Client Platform)
 
 This repository houses the hybrid mobile and web application client runtime interface for the Freight Loom logistics system. The application is built using the Angular framework running inside an Ionic framework container with a Capacitor native mobile wrapper.
 
