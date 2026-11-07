@@ -2,7 +2,6 @@
 
 This repository houses the hybrid mobile and web application client runtime interface for the Freight Loom logistics system. The application is built using the Angular framework running inside an Ionic framework container with a Capacitor native mobile wrapper.
 ### FreightLoom PostgreSQL database
-### FreightLoom PostgreSQL database
 ## 🛠️ Global Prerequisites
 
 Before checking out the repository code, your local machine must match our strict enterprise development toolchain bounds. 
